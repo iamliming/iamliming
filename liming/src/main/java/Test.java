@@ -24,6 +24,7 @@ public class Test {
 	public static void main(String[] args) throws IOException, NoSuchFieldException, IllegalAccessException {
 		readPatientStatistic();
 		updatePatientStatistic();
+
 //		Tt tt1 = new Tt();
 //		Tt tt2 = new Tt();
 //		tt1.a = new BigDecimal("11.11");

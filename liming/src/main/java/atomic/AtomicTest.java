@@ -28,7 +28,8 @@ public class AtomicTest {
 	public static void main(String[] args) {
 
 		System.out.println(HASH_INCREMENT);
-		System.out.println(nextHashCode());
+        System.out.println();
+        System.out.println(nextHashCode());
 		System.out.println(nextHashCode());
 		System.out.println(nextHashCode());
 		System.out.println(nextHashCode());
